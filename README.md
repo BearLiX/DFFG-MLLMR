@@ -1,9 +1,11 @@
 # DFFG-MLLMR
 This is the code repository of the paper "DFFG-MLLMR: Dynamic Feature Fusion Guiding and Multimodal Large Language Model Refining for Medical Image Report Generation"
+![image]DFFG-MLLMR/1.png
 
 ## Qwen2-vl
 You can get the original weights of LLM here "https://github.com/QwenLM/Qwen2-VL"
 You can find the files for fine-tuning LLM in .\llm
+It is recommended to use the following tools for fine-tuning "https://github.com/hiyouga/LLaMA-Factory"
 
 ## medclip
 You can find the raw weights of the visual encoder at https://github.com/RyanWangZf/MedCLIP
