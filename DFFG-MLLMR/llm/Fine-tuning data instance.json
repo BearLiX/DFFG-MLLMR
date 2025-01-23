@@ -1,0 +1,34 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image><image>As an experienced radiologist, please generate a concise diagnostic report for chest X-ray images. The report should be clear, simple, and understandable for a patient, focusing on abnormalities or diseases. Avoid complex medical jargon and keep the language straightforward, similar to the reference reports provided.",
+        "role": "user"
+      },
+      {
+        "content": "No focal consolidation, no definite pleural effusion seen. Exaggerated kyphosis with increased AP dimension of the thorax, curvilinear density projected over the right anterior 3rd and 4th ribs beyond which lung markings are seen XXXX skin fold artifact. Mild aortic ectasia/tortuosity, no typical mediastinal widening to suggest vascular injury. Contour irregularity of the lateral right 9th rib of indeterminate age.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/root/autodl-tmp/LLaMA-Factory/IU-Xary/CXR525_IM-2136/0.png",
+      "/root/autodl-tmp/LLaMA-Factory/IU-Xary/CXR525_IM-2136/1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image><image>As an experienced radiologist, please generate a concise diagnostic report for chest X-ray images. The report should be clear, simple, and understandable for a patient, focusing on abnormalities or diseases. Avoid complex medical jargon and keep the language straightforward, similar to the reference reports provided.",
+        "role": "user"
+      },
+      {
+        "content": "Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. The cardiac silhouette remains moderately enlarged, exaggerated by epicardial fat pads. Interstitium is XXXX prominent. No XXXX focal airspace consolidation or pleural effusion. There is XXXX spine spondylosis.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/root/autodl-tmp/LLaMA-Factory/IU-Xary/CXR2162_IM-0779/0.png",
+      "/root/autodl-tmp/LLaMA-Factory/IU-Xary/CXR2162_IM-0779/1.png"
+    ]
+  }
+]
