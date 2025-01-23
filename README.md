@@ -5,6 +5,9 @@ This is the code repository of the paper "DFFG-MLLMR: Dynamic Feature Fusion Gui
 You can get the original weights of LLM here "https://github.com/QwenLM/Qwen2-VL"
 You can find the files for fine-tuning LLM in .\llm
 
+## medclip
+You can find the raw weights of the visual encoder at https://github.com/RyanWangZf/MedCLIP
+
 ## Datasets
 The medical image report generation datasets are available at the following links:
 1. MIMIC-CXR-JPG data can be found at https://physionet.org/content/mimic-cxr-jpg/2.0.0/.
