@@ -1,6 +1,7 @@
 # DFFG-MLLMR
 This is the code repository of the paper "DFFG-MLLMR: Dynamic Feature Fusion Guiding and Multimodal Large Language Model Refining for Medical Image Report Generation"
-![image][DFFG-MLLMR/1.png](https://github.com/BearLiX/DFFG-MLLMR/blob/main/DFFG-MLLMR/1.png)
+
+![image](https://github.com/BearLiX/DFFG-MLLMR/blob/main/DFFG-MLLMR/1.png)
 
 ## Qwen2-vl
 You can get the original weights of LLM here "https://github.com/QwenLM/Qwen2-VL"
